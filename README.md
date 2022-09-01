@@ -4,4 +4,4 @@ NPM     : 2106651591
 
 Kelas   : F
 
-Hobi : Badminton
+Hobi : Bola
